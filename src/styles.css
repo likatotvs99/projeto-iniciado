@@ -1,0 +1,26 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    font-family: 'Gotham';
+    background-color: #eaefb3; /* Cor de fundo clara */
+  }
+  
+  .container {
+    margin-top: 20px;
+  }
+  
+  .footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: #c9bea4; /* Defina a cor de fundo do footer */
+    text-align: center; /* Centraliza o texto */
+    padding: 10px 0; /* Espaçamento interno */
+    box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.1); 
+  }
+ 
+  
+
+  
